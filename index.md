@@ -6,4 +6,4 @@ title: Home
 # Hello, I'm Noah
 
 This is my personal website.  
-You can learn more [about me](about.html) or check out my [CV](cv.pdf) if you're curious.
+You can check out my [CV](NoahRingroseCVAPR2024.pdf) if you're curious.
