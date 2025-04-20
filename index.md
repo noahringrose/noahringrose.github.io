@@ -7,7 +7,7 @@ title: Home
 
 <img src="/assets/IMG_1283.png" alt="Profile picture" style="width:250px; border-radius: 50%; display:block; margin:auto;">
 
-Hi! I'm an incoming physics PhD student at NYU interested broadly in generalized symmetries and topological defects in QFTs and lattice models, as well as the mathematical classification/characterization of topological phases of matter. 
+Hi! I'm an incoming physics PhD student at NYU interested broadly in generalized symmetries and topological defects in QFTs and lattice models, as well as the mathematical classification and characterization of topological phases of matter. 
 
 I am currently finishing my undergraduate studies in math and physics at Penn State University, where I am mentored by [Adrian Ocneanu](https://mathpicture.fas.harvard.edu/hrt-course). I also spent a summer at Ohio State University, where I conducted research in tensor categories and topological phases under the supervision of [Dave Penneys](https://people.math.osu.edu/penneys.2/) and Kyle Kawagoe.
 
