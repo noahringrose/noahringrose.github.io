@@ -5,7 +5,7 @@ title: Home
 
 # Physicist, Mathematician, Whatever.
 
-<img src="/assets/IMG_1283.png" alt="Profile picture" style="width:200px; border-radius: 50%; display:block; margin:auto;">
+<img src="/assets/IMG_1283.png" alt="Profile picture" style="width:250px; border-radius: 50%; display:block; margin:auto;">
 
 Hi! I'm an incoming physics PhD student at NYU interested broadly in generalized symmetries and topological defects in QFTs and lattice models, as well as the mathematical classification/characterization of topological phases of matter. 
 
