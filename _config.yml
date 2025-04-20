@@ -7,3 +7,8 @@ markdown: kramdown
 # Links
 email: noah.ringrose@gmail.com
 github_username: noahringrose
+
+# Navigation links
+header_pages:
+  - index.md
+  - blog.md
