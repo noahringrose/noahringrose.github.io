@@ -10,5 +10,5 @@ github_username: noahringrose
 
 # Navigation links
 header_pages:
-  - index.md
   - blog.md
+  - index.md
