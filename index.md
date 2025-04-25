@@ -17,4 +17,3 @@ I'm only just getting started, but if you're itching for a first taste of my wor
 If you are curious about my background, you can check out my [CV](/assets/cv.pdf).
 
 I love talking to anyone who shares even a passing interest in these ideas, so if you want to chat about anything, feel free to reach out via email at noah.ringrose@gmail.com!
-<!-- trigger rebuild -->
