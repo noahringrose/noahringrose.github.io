@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-
+<!-- trigger rebuild -->
 # Noah Ringrose's Personal Website
 
 <img src="/assets/IMG_1283.png" alt="Profile picture" style="width:250px; border-radius: 50%; display:block; margin:auto;">
