@@ -6,7 +6,7 @@ title: Home
 
 <img src="/assets/IMG_1283.png" alt="Profile picture" style="width:250px; border-radius: 50%; display:block; margin:auto;">
 
-Hi! I'm a first-year physics PhD student at NYU advised by Yifan Wang and Aditi Mitra. I am interested in understanding how methods from algebraic topology and (higher) category theory can be used to reinterpret discrete and mysterious physical quantities, as well as how methods from physics can be used to compute rich mathematical data. 
+Hi! I'm a first-year physics PhD student at NYU advised by Yifan Wang and Aditi Mitra. My research interests lie in understanding how methods from algebraic topology and (higher) category theory can be used to reinterpret discrete and subtle physical quantities within a deeper geometric framework, and how physical techniques can, in turn, be used to compute and illuminate rich mathematical invariants.
 
 Currently, I am interested in learning about the following:
 
