@@ -28,6 +28,6 @@ I'm only just getting started, but if you're itching for a first taste of my wor
 
 Outside of physics and math, I try to eat food from as many different cultures as I can and experiment with the fusion of their flavors in my own kitchen. From time to time I dabble in bouldering and I am particularly passionate about the long conversations/one-sided-ramblings that take place between the time spent on the climbing wall. I also enjoy reading novels and philosophy on the subway and listening to Suki Waterhouse while aimlessly walking through New York City, unaware of my surroundings. I look forward to getting lost in more cities, flavors, books, music, and problems during my journey as a physicist.
 
-If you are curious about my background, you can check out my [CV](/assets/cv.pdf), though it may be a bit out of date.
+If you are curious about my background, you can check out my [CV](/assets/Noah_Ringrose_CV_Nov_2025.pdf), though it may or may not be a bit out of date depending on when you are reading this.
 
 I love talking to anyone who shares even a passing interest in these ideas, so if you want to chat about anything, feel free to reach out via email at noah.ringrose@gmail.com!
