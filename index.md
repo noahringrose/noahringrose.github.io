@@ -6,21 +6,21 @@ title: Home
 
 <img src="/assets/IMG_1283.png" alt="Profile picture" style="width:250px; border-radius: 50%; display:block; margin:auto;">
 
-Hi! I'm a first-year physics PhD student at NYU advised by Yifan Wang and Aditi Mitra. My research interests lie in understanding how methods from algebraic topology and (higher) category theory can be used to reinterpret discrete and subtle physical quantities within a deeper geometric framework, and how physical techniques can, in turn, be used to compute and illuminate rich mathematical invariants.
+Hi! I'm a first-year physics PhD student at NYU advised by Yifan Wang and Aditi Mitra. My research interests lie in understanding how methods from topology and category theory can be used to reinterpret discrete and subtle physical quantities within a deeper geometric framework, and how physical techniques can, in turn, be used to compute and illuminate rich mathematical invariants.
 
-Currently, I am interested in learning about the following:
+Currently, I am interested in learning about anything related to the following:
 
-- Anomalies and their inflow. What is the topological origin of anomalies in both the field theory and lattice contexts?
 - The mathematical classification and characterization of topological phases of matter.
 - Generalized symmetries and the higher representation theory of extended operators.
 - Constructions of topological quantum codes via TQFTs and tensor categories.
+- Anomalies and their inflow. What is the topological origin of anomalies in both the field theory and lattice contexts?
 - Invertible field theories and homotopy theory.
   
-Ultimately, I am interested in the non-perturbative structure of the space of quantum lattice models and QFTs, and in the development of a new higher-categorical calculus for computations within and between them.
+While I have a long way to go, I am ulimately interested in the non-perturbative structure of the space of quantum lattice models and QFTs, and in the development of a higher-categorical calculus for computations within and between them.
 
-In Spring 2025, I finished my undergraduate studies in math and physics at Penn State University, where I was mentored by [Adrian Ocneanu](https://mathpicture.fas.harvard.edu/hrt-course). Adrian liked to say that matter and spacetime are computation machines, and in order to study physics non-perturbatively, we need to literally "fill space around us with computations." Formally, this amounts to considering the higher representation theory of networks of extended symmetry defects and computing physical quantities via their higher-dimensional diagrammatic calculus. My goal in some sense is to learn how to apply Ocneanu's unique perspective on the world to a wide array of physical models.
+In Spring 2025, I finished my undergraduate studies in math and physics at Penn State University, where I was mentored by [Adrian Ocneanu](https://mathpicture.fas.harvard.edu/hrt-course). Adrian liked to say that matter and spacetime are computation machines, and in order to study physics non-perturbatively, we need to literally "fill space around us with computations." Formally, this amounts to considering the higher representation theory of networks of extended defects and computing physical quantities via some kind of higher-dimensional diagrammatic calculus. My goal in some sense is to learn how to apply this perspective to understand various aspects of physics.
 
-I also spent a summer at Ohio State University, where I researched how to compute categorical data directly from the movement and fusion of anyonic excitations in a unitary fusion category's associated Levin-Wen model. This was done under the supervision of [Dave Penneys](https://people.math.osu.edu/penneys.2/) and Kyle Kawagoe. There, I took my first baby steps toward my goal, learning the formal language of tensor categories and the physical theory of topological phases of matter, which this language describes exactly.
+I also spent a summer at Ohio State University, where I researched how to compute categorical data directly from the movement and fusion of anyonic excitations in a unitary fusion category's associated Levin-Wen model. This was done under the supervision of [Dave Penneys](https://people.math.osu.edu/penneys.2/) and Kyle Kawagoe. There, I learned the formal language of tensor categories and of the physical theory of topological phases of matter which it describes exactly.
 
 This website is my personal space where I share my ideas and perspectives on math and physics and keep track of my progress as a physicist, mathematician, natural philosopher, or whatever I choose to identify as on a given day.  
 
