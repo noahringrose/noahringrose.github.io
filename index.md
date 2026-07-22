@@ -6,26 +6,16 @@ title: Home
 
 <img src="/assets/IMG_1283.png" alt="Profile picture" style="width:250px; border-radius: 50%; display:block; margin:auto;">
 
-Hi! I'm a first-year physics PhD student at NYU advised by Yifan Wang and Aditi Mitra. My research interests lie in understanding how methods from topology and category theory can be used to reinterpret discrete and subtle physical quantities within a deeper geometric framework, and how physical techniques can, in turn, be used to compute and illuminate rich mathematical invariants. I am also curious as to how we can extract universal quantum computation from the instrinsic topological properties of matter.
+Hi! I'm a first-year physics PhD student at NYU advised by Yifan Wang. I am broadly interested in the higher categorical structures which underly quantum field theory (QFT). Before this, I was lucky enough to do my undergraduate studies at Penn State University under the mentorship of [Adrian Ocneanu](https://mathpicture.fas.harvard.edu/hrt-course) and do summer research on tensor categories and Levin-Wen models at Ohio State under the supervision of [Dave Penneys](https://people.math.osu.edu/penneys.2/).
 
-Currently, I am interested in learning about anything related to the following:
+In the last decade or so, the cultural zeitgeist surrounding QFTs has shifted to become increasingly more Yoneda-esque. By this I mean that rather than asking what "is" a QFT, we should instead study the "space" of defects which can probe the theory. 
 
-- The mathematical classification and characterization of topological phases of matter.
-- Constructions of topological quantum codes via tensor categories and TQFTs.
-- Realizing topological ordered states and their symmetries via dynamical measurement.
-- Generalized symmetries and the higher representation theory of extended operators.
-- The topological origin of anomalies in both the field theory and lattice contexts.
-- Invertible field theories and homotopy theory.
-  
-While I have a LONG way to go, I am ultimately interested in the non-perturbative structure of the space of quantum lattice models and QFTs, and in the development of a higher-categorical calculus for computations within and between them.
+While we are applying it on a higher level these days, this general approach toward physics is certainly not new. Even Ernest Rutherford knew in 1909 that the question of "what is an atom?" is somehow nonsensical: this question should be rephrased as "how do atoms (in a thin gold film) respond to all possible probes (charged alpha particles) we can throw at it?"
 
-In Spring 2025, I finished my undergraduate studies in math and physics at Penn State University, where I was mentored by [Adrian Ocneanu](https://mathpicture.fas.harvard.edu/hrt-course). Adrian liked to say that matter and spacetime are computation machines, and in order to study physics non-perturbatively, we need to literally "fill space around us with computations." Formally, this amounts to considering the higher representation theory of networks of extended defects and computing physical quantities via some kind of higher-dimensional diagrammatic calculus. My goal in some sense is to learn how to apply this perspective to understand various aspects of physics.
-
-I also spent a summer at Ohio State University, where I researched how to compute categorical data directly from the movement and fusion of anyonic excitations in a unitary fusion category's associated Levin-Wen model. This was done under the supervision of [Dave Penneys](https://people.math.osu.edu/penneys.2/) and Kyle Kawagoe. There, I learned the formal language of tensor categories and of the physical theory of topological phases of matter which it describes exactly.
-
-This website is my personal space where I share my ideas and perspectives on math and physics and keep track of my progress as a physicist, mathematician, natural philosopher, or whatever I choose to identify as on a given day.  
-
-Outside of physics and math, I try to eat food from as many different cultures as I can and experiment with the fusion of their flavors in my own kitchen. From time to time I dabble in bouldering and I am particularly passionate about the long conversations/one-sided-ramblings that take place between the time spent on the climbing wall. I also enjoy reading novels and philosophy on the subway and aimlessly walking through New York City. I look forward to getting lost in more cities, flavors, books, music, and problems during my journey as a physicist.
+Some things that I am curious about in this direction currently are:
+- Generalizations of the tube algebra and Drinfeld center constructions and their interactions with quiches, higher representation theory, and factorization homology. Particularly, how can this technology be used to go beyond finite symmetries and eventually beyond topological defects, and what is general the mechanism behind bulk-boundary correspondence in QFTs? 
+- How can we connect fully extended functorial field theories with what physicists actually do? For instance, what is the proper way to ask questions about how RG flows act on higher categories of defects in this language? I enjoy exploring these sorts of ideas in concrete low-dimensional examples like 3d TFTs (state sum models, lattice models, homotopy sigma models) and 2d CFTs.
+- Using generalized cohomology theories and spectra to classify spaces of physical theories. For instance, I have passing interests in invertible field theories and homotopy theory as well as differential cohomology.
 
 If you are curious about my background, you can check out my [CV](/assets/Noah_Ringrose_CV_Nov_2025.pdf), though it may or may not be a bit out of date depending on when you are reading this.
 
