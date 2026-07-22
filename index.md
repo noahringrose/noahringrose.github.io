@@ -14,7 +14,7 @@ While we are applying it on a higher level these days, this general approach tow
 
 Some things that I am curious about (but certainly do not know nearly enough about) in this direction currently are:
 - Generalizations of the tube algebra and Drinfeld center constructions and their interactions with quiches, higher representation theory, and factorization homology. Particularly, how can this technology be used to go beyond finite symmetries and eventually beyond topological defects, and what is general the mechanism behind bulk-boundary correspondence in QFTs? 
-- How can we connect fully extended functorial field theories with what physicists actually do? For instance, what is the proper way to ask questions about how RG flows act on higher categories of defects in this language? I enjoy exploring these sorts of ideas in concrete low-dimensional examples like 3d TFTs (state sum models, lattice models, homotopy sigma models) and 2d CFTs.
+- How can we connect fully extended functorial field theories with what physicists actually do? For instance, what is the proper way to ask questions about how RG flows act on higher categories of defects in this language? I am interested in exploring these sorts of ideas in concrete low-dimensional examples like 3d TFTs (state sum models, lattice models, homotopy sigma models) and 2d CFTs.
 - The role of generalized cohomology theories and spectra to classify spaces of physical theories. For instance, I have passing interests in invertible field theories and homotopy theory as well as differential cohomology.
 
 If you are curious about my background, you can check out my [CV](/assets/Noah_Ringrose_CV_Nov_2025.pdf), though it may or may not be a bit out of date depending on when you are reading this.
