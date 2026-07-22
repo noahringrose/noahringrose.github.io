@@ -10,7 +10,7 @@ Hi! I'm a first-year physics PhD student at NYU advised by [Yifan Wang](https://
 
 In the last decade or so, the cultural zeitgeist surrounding QFTs has shifted to become increasingly more Yoneda-esque. By this I mean that rather than asking what "is" a QFT, we should instead study the "space" of defects which can probe the theory. 
 
-While we are applying it on a higher level these days, this general approach toward physics is certainly not new. Even Ernest Rutherford knew in 1909 that the question of "what is an atom?" is somehow nonsensical: this question should be rephrased as "how do atoms (in a thin gold film) respond to all possible probes (charged alpha particles) we can throw at it?"
+While we are applying it on a higher level these days, this general approach toward physics is certainly not new. Even Ernest Rutherford knew in 1909 that the question of "what is an atom?" is somehow nonsensical: this question should be rephrased as "how do atoms (in a thin gold film) respond to all possible probes (charged alpha particles) that we can throw at it?"
 
 Some things that I am curious about (but certainly do not know nearly enough about) in this direction currently are:
 - Generalizations of the tube algebra and Drinfeld center constructions and their interactions with quiches, higher representation theory, and factorization homology. Particularly, how can this technology be used to go beyond finite symmetries and eventually beyond topological defects, and what is general the mechanism behind bulk-boundary correspondence in QFTs? 
