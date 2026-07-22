@@ -6,7 +6,7 @@ title: Home
 
 <img src="/assets/IMG_1283.png" alt="Profile picture" style="width:250px; border-radius: 50%; display:block; margin:auto;">
 
-Hi! I'm a first-year physics PhD student at NYU advised by [Yifan Wang](https://breakthroughprize.org/Laureates/1/L4020). I am broadly interested in the higher categorical structures which underly quantum field theory (QFT). Before this, I was lucky enough to do my undergraduate studies at Penn State University under the mentorship of [Adrian Ocneanu](https://mathpicture.fas.harvard.edu/hrt-course) and do summer research on tensor categories and Levin-Wen models at Ohio State under the supervision of [Dave Penneys](https://people.math.osu.edu/penneys.2/).
+Hi! I'm a first-year physics PhD student at NYU advised by [Yifan Wang](https://breakthroughprize.org/Laureates/1/L4020). I am broadly interested in the higher categorical structures which underly quantum field theory (QFT). Before this, I was lucky enough to do my undergraduate studies at Penn State University under the mentorship of [Adrian Ocneanu](https://mathpicture.fas.harvard.edu/hrt-course) and do some research on tensor categories and Levin-Wen models under the supervision of [Dave Penneys](https://people.math.osu.edu/penneys.2/) at Ohio State University.
 
 In the last decade or so, the cultural zeitgeist surrounding QFTs has shifted to become increasingly more Yoneda-esque. By this I mean that rather than asking what "is" a QFT, we should instead study the "space" of defects which can probe the theory. 
 
