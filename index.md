@@ -8,7 +8,7 @@ title: Home
 
 Hi! I'm a first-year physics PhD student at NYU advised by [Yifan Wang](https://breakthroughprize.org/Laureates/1/L4020) with broad interests in the higher categorical structures which underlie quantum field theory (QFT). Before this, I was lucky enough to do my undergraduate studies at Penn State University under the mentorship of [Adrian Ocneanu](https://mathpicture.fas.harvard.edu/hrt-course) and do some research on tensor categories and Levin-Wen models under the supervision of [Dave Penneys](https://people.math.osu.edu/penneys.2/) at Ohio State University.
 
-In the last decade or so, the cultural zeitgeist surrounding QFTs has shifted to become increasingly more [Yoneda](https://ncatlab.org/nlab/show/Yoneda+lemma)-esque. By this I mean that physicists have become more aware of the idea that rather than asking what "is" a QFT, we should instead study the "space" of all defects which can probe the theory. 
+In the last decade or so, the cultural zeitgeist surrounding QFTs has shifted to become increasingly more [Yoneda](https://ncatlab.org/nlab/show/Yoneda+lemma)-esque. By this I mean that physicists have become more conscious of the idea that rather than asking what "is" a QFT, we should instead study the "space" of all defects which can probe the theory. 
 
 While we are applying it on a higher level these days, this general approach toward physics is certainly not new. Even Ernest Rutherford knew in 1909 that the question of "what is an atom?" is somehow nonsensical: this question should be rephrased as "how do atoms (in a thin gold film) respond to all possible probes (charged alpha particles) that we can throw at it?"
 
