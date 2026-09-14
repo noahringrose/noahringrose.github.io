@@ -10,7 +10,7 @@ A collection of expository notes on quantum field theory, category theory, latti
 
 ---
 
-## Unitary TQFTs, Invertible QFTs, and Stable Homotopy
+## Unitary TQFTs, Invertible QFTs, and Maps of $\dagger$-Picard Groupoids
 
 *Lecture notes · Atlantic TQFT 2026 Summer School*
 
