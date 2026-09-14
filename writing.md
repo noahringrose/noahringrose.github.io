@@ -6,9 +6,15 @@ permalink: /writing/
 
 # Expository Writing
 
-Here are some expository notes I've written on mathematical physics.
+A collection of expository notes on quantum field theory, category theory, lattice models, and topology.
 
-[Unitary TQFTs, Invertible QFTs, and Stable Homotopy](/assets/stable.pdf)
+---
 
-Notes in progress based on a lecture series given by Luuk Stehouwer at the Atlantic TQFT 2026 Summer School at Dalhousie Univeristy.
+## Unitary TQFTs, Invertible QFTs, and Stable Homotopy
+
+*Lecture notes · Atlantic TQFT 2026 Summer School*
+
+Notes in progress based on lectures by Luuk Stehouwer at Dalhousie University.
+
+[**PDF →**](/assets/stable.pdf)
 
