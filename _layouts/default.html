@@ -81,6 +81,11 @@
             <li><a href="{{ "/about.html" | relative_url }}">About</a></li>
           {% endif %}
         {% endfor %}
+        {% if page.name == "writing.md" %}
+
+  <li><a href="{{ "/writing.html" | relative_url }}">Writing</a></li>
+
+{% endif %}
       </ul>
     </nav>
   </header>
