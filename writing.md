@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Expository Writing
 permalink: /writing/
 ---
 
