@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Expository Writing
 permalink: /writing/
 ---
-
-# Expository Writing
 
 A collection of expository notes on quantum field theory, category theory, lattice models, and topology.
 
