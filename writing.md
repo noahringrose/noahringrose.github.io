@@ -14,7 +14,7 @@ A collection of expository notes on quantum field theory, category theory, latti
 
 *Lecture notes · Atlantic TQFT 2026 Summer School*
 
-Notes in progress based on lectures by Luuk Stehouwer at Dalhousie University.
+Notes in progress based on lectures given by Luuk Stehouwer at Dalhousie University.
 
 [**PDF →**](/assets/stable.pdf)
 
