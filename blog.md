@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 
-# Physicist, Mathematician, Whatever.
+# The De-Abstractification of Abstract Nonsense.
 
 Here are my posts:
 
