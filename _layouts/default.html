@@ -68,26 +68,14 @@
 </head>
 <body>
   <header>
-    <nav>
-      <ul>
-        {% for page in site.pages %}
-          {% if page.name == "index.md" %}
-            <li><a href="{{ "/" | relative_url }}">Home</a></li>
-          {% endif %}
-          {% if page.name == "blog.md" %}
-            <li><a href="{{ "/blog.html" | relative_url }}">Blog</a></li>
-          {% endif %}
-          {% if page.name == "about.md" %}
-            <li><a href="{{ "/about.html" | relative_url }}">About</a></li>
-          {% endif %}
-        {% endfor %}
-        {% if page.name == "writing.md" %}
-
-  <li><a href="{{ "/writing.html" | relative_url }}">Writing</a></li>
-
-{% endif %}
-      </ul>
-    </nav>
+   <nav>
+  <ul>
+    <li><a href="{{ "/" | relative_url }}">Home</a></li>
+    <li><a href="{{ "/blog.html" | relative_url }}">Blog</a></li>
+    <li><a href="{{ "/writing/" | relative_url }}">Writing</a></li>
+    <li><a href="{{ "/about.html" | relative_url }}">About</a></li>
+  </ul>
+</nav>
   </header>
 
   <main>
