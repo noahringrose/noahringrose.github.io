@@ -12,11 +12,10 @@ In the last decade or so, the cultural zeitgeist surrounding QFTs has shifted to
 
 While we are applying it on a higher level these days, this general approach toward physics is certainly not new. Even Ernest Rutherford knew in 1909 that the question of "what is an atom?" is somehow nonsensical: this question should be rephrased as "how do atoms (in a thin gold film) respond to all possible probes (charged alpha particles) that we can throw at it?"
 
-Most of the questions I am interested in somehow pertain to how to appropriately formulate morphisms of QFTs and quantum lattice systems and what are the implications of this structure. Currently, I am curious about:
-- Non-semisimple tensor category symmetries, their deformations, and their gauging in 1+1 and 2+1 dimensional theories.
-- The symmetry TFT and fusion spin chain models.
-- Gapped and gapless boundaries of topological order and interactions with higher Morita theory.
-- A bit of functorial QFT, homotopy theory, invertible field theories, and spin-statistics type things.
+Most of the questions I am interested in somehow pertain to how to appropriately formulate morphisms of QFTs and quantum lattice systems and what are the implications of this structure. Currently, I am trying to understand:
+- Non-semisimple tensor category symmetries, their deformations, and their gauging in (1+1)-dimensional anyon chains and logarithmic CFTs.
+- The generalized Landau paradigm and tensor network renormalization.
+- Non-invertible symmetry enriched topological order.
 
 If you are curious about my background, you can check out my [CV](/assets/Noah_Ringrose_CV_Nov_2025.pdf), though it may or may not be a bit out of date depending on when you are reading this.
 
